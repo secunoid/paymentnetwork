@@ -1,0 +1,97 @@
+= Payment Network Whitepaper
+Shahid Sharif <smsharif@secunoid.com>
+v1.0, 16Sep2018
+:numbered:
+:sectnum:
+:chapter-label:
+:toc:
+:docinfo:
+:docinfo1:
+:docinfo2:
+:description: Payment Network Whitepaper
+:keywords: payment network, whitepaper, payments, blockchain
+:imagesdir: assets/images
+:homepage: https://secunoid.com
+
+== Abstract
+A one-paragraph description of what the paper is about. Do not state the conclusion here; simply tell the reader what the purpose of the paper is. Customers frequently read only the abstract and conclusion of white papers, so provide material that gives them a good reason to read the details.
+
+The ability to transfer money is the biggest roadblock for consumers.  In order to make a payment, users have to first understand the charges a particular network provider will charge.
+
+Transferring small amounts is an issue, where the transfer charges are more then the value being transferred.
+
+Our solution will attempt to reduce, if not remove the friction when using payment rails.
+
+== Background
+Inorder understand the problem, it is key to understand the payment landscape.
+
+
+there are 14
+Payments can be between:
+
+. User to User
+. User to Business
+. Business to Business
+
+Payments can be classified into two groups:
+
+. Within the borders
+. Across the borders
+
+When payments are being face to face, usually there is no verification required.  
+
+When payments are being sent electronically, regardless of where the sender or the receiver is, a few hurdles surface:
+
+* <<AML, AML>> Regulations
+* <<KYC, KYC>> Regulations
+
+== Cryptonomics
+_Cryptoeconomics_ is what secures the State Machine and Network.
+
+*Cryptoeconomics* is used for general purpose of unit of value
+
+
+== Tokenomics
+_Tokenomics_ is what makes the token perform (platform rules vs asset rules).
+
+*Tokenomics* is used for specific token unit of value
+
+== Application Overview
+
+=== Component Layout
+
+== Technical Solution
+
+=== Topology
+
+== Conclusion
+
+== References
+
+* link:https://powerman.name/doc/asciidoc[Ascii Doctor Cheatsheet]
+* link:https://asciidoctor.org/docs/user-manual/[Ascii Doctor User Manual]
+
+== Glossary
+[glossary]
+    [[AML]]AML::
+    Anti Money Laundering
+
+    [[KYC]]KYC::
+    Know Your Customer
+
+    [[monday]]monday::
+    First day of the week.
+
+    [[saturday]]saturday::
+    6th day of the week.
+
+== Level 1 Section Title
+The shop is closed on <<monday>> but it opens on <<saturday,Saturday>> every week.
+
+=== Level 2 Section Title
+
+==== Level 3 Section Title
+
+===== Level 4 Section Title
+
+====== Level 5 Section Title
