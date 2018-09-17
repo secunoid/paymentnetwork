@@ -99,3 +99,12 @@ The shop is closed on <<monday>> but it opens on <<saturday,Saturday>> every wee
 ===== Level 4 Section Title
 
 ====== Level 5 Section Title
+
+== Images
+
+.A mountain sunset
+[#img-sunset]
+[caption="Figure 1: ",link=https://www.flickr.com/photos/javh/5448336655]
+image::sunset.jpg[Sunset,300,200]
+
+image::https://asciidoctor.org/images/octocat.jpg[GitHub mascot]
