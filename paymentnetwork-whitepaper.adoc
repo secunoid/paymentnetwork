@@ -25,8 +25,12 @@ Our solution will attempt to reduce, if not remove the friction when using payme
 == Background
 Inorder understand the problem, it is key to understand the payment landscape.
 
+There are approximately 1900 payment systems in the world.
 
-there are 14
+A footnote footnote:[An example footnote.];
+a second footnote with a reference ID footnoteref:[note2,Second footnote.];
+finally a reference to the second footnote footnoteref:[note2].
+
 Payments can be between:
 
 . User to User
